@@ -1,0 +1,14 @@
+micronaut:
+  application:
+    name: kotlin-micronaut-open-wc-blueprint
+  io:
+    watch:
+      paths: src/main
+      restart: true
+  router:
+    static-resources:
+      default:
+        enabled: true
+        mapping: /**
+        paths:
+          - classpath:web

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "tags": [
+    {
+      "name": "kotlin-micronaut-open-wc-blueprint",
+      "description": "Kotlin/Micronaut and Open-WC Blueprint",
+      "properties": [
+        {
+          "name": "title",
+          "type": "String",
+          "description": "Kotlin/Micronaut and Open-WC Blueprint",
+          "default": "Kotlin/Micronaut and Open-WC Blueprint"
+        }
+      ],
+      "events": [],
+      "slots": [],
+      "cssProperties": []
+    }
+  ]
+}
